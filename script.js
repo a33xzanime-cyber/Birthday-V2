@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function startFinalAnimations() {
         // Typewriter effect
-        const greeting = "Happy Birthday,";
+        const greeting = "Happy Birthday My Bunny,";
         let i = 0;
         greetingTextElement.innerHTML = '';
         const cursor = document.createElement('span');
